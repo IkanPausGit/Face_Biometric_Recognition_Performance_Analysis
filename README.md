@@ -34,18 +34,19 @@ The dataset contains:
 ## How to Run the Project
 
 Install the required libraries:
-
-
+```python
 pip install -r requirements.txt
+```
 Run the Python file:
-
+```python
 python analysis.py
+```
 ## Output
 The project generates:
-•	Recognition accuracy
-•	Confusion matrix
-•	Classification report
-•	Recognition result file
-•	Similarity score chart
+- Recognition accuracy
+- Confusion matrix
+- Classification report
+- Recognition result file
+- Similarity score chart
 ## Conclusion
 The face biometric recognition system achieved 80% accuracy based on the sample dataset. This indicates that the system has moderate recognition performance.
