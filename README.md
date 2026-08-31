@@ -1,2 +1,16 @@
 # Face_Biometric_Recognition_Performance_Analysis
-### Face_Biometric_Recognition_Performance_Analysis
+## Research Topic
+Face Biometric Recognition Performance Analysis
+
+## Research Problem
+Face biometric recognition systems may produce incorrect recognition due to low similarity score, poor image quality, lighting condition, or facial variation.
+
+## Research Objective
+To analyse the performance of a face biometric recognition system using prediction result, similarity score, and accuracy.
+
+## Research Question
+What is the accuracy level of the face biometric recognition system based on the tested dataset?
+
+## Research Methodology
+This project uses a quantitative experimental research approach. A sample face recognition dataset is analysed using Python. The actual identity and predicted identity are compared to determine whether the recognition result is correct or incorrect.
+
